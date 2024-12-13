@@ -1,0 +1,7 @@
+# See crore(1) for more options.
+
+PATH = /usr/bin:/usr/local/bin
+USER = joe
+HOME = /home/joe
+
+private

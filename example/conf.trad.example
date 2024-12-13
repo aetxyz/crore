@@ -1,0 +1,4 @@
+# Note that all times are interpreted in UTC, even in legacy mode.
+
+tabfile = /var/spool/cron/MY_USERNAME
+legacy

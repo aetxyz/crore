@@ -1,0 +1,9 @@
+# Fill in this crontab!
+# e.g.
+#
+# 0 * * * * /usr/bin/borgmatic
+# */5 * * * * /usr/bin/mbsync -a
+#
+# And get rid of this placeholder!
+
+* * * * * echo 'hello world!'

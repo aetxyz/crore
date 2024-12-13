@@ -1,0 +1,11 @@
+#!/sbin/openrc-run
+
+# This will use the default conf locations from the documentation by default!
+# To specify your own config location, use `command_args="/path/to/config"`
+
+name="crore"
+description="cron daemon"
+command="/usr/bin/crore"
+command_user="YOUR_USERNAME"
+command_background=true
+pidfile="/run/${RC_SVCNAME}.pid"

@@ -1,0 +1,4 @@
+PATH = /usr/bin:/usr/local/bin
+
+tabfile = /etc/sv/crore/tab
+private
